@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "limit-audit",
+  "description": "Retest the 'Claude can't do X' notes in your setup.",
+  "owner": {
+    "name": "Uri Kogan"
+  },
+  "plugins": [
+    {
+      "name": "limit-audit",
+      "description": "Find and retest outdated 'Claude can't do X' claims in your CLAUDE.md files, memory notes, skills, commands and agents.",
+      "source": "./plugins/limit-audit",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "limit-audit",
+  "version": "0.1.0",
+  "description": "Find and retest outdated 'Claude can't do X' claims in your CLAUDE.md files, memory notes, skills, commands and agents.",
+  "license": "MIT",
+  "keywords": [
+    "memory",
+    "claude-md",
+    "audit",
+    "maintenance",
+    "skills"
+  ],
+  "author": {
+    "name": "Uri Kogan",
+    "url": "https://github.com/ukogan"
+  },
+  "repository": "https://github.com/ukogan/claude-limit-audit"
+}
